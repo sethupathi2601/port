@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image: url(photo/Pro2.webp);
+    background-repeat: no-repeat;
+}
+li{
+    display: inline-flex;
+    padding: 5px;
+}
